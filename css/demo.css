@@ -1,0 +1,29 @@
+#main-container .clear div {
+	color:#fff;
+	height: 40px;
+}
+
+.col-12, .col-13, .col-6, .col-10, .col-5, .col-8  {
+	color:#fff;
+	background:green;
+	height: 20px;
+}
+
+.col-7, .col-1, .col-3{
+	color:#fff;
+	background:brown;
+	height: 20px;
+}
+.col-4, .col-11, .col-2, .col-9 {
+	color:#fff;
+	background:grey;
+	height: 20px;
+}
+
+#demo .col-4 {
+	background: #fff;
+	margin-bottom: 50px;
+}
+#demo .in-column {
+	background: pink; 
+}
